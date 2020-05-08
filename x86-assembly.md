@@ -6,5 +6,5 @@ Key ideas:
 3. Conventions - callee and caller saved registers, EFLAGS
 4. Push and Pop ops - add/remove 4 bytes to/from stack, decrement/increment ESP (stack pointer register)
 5. Call conventions: 
-- cdecl
-- stdcall
+  - cdecl
+  - stdcall
